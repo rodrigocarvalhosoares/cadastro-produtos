@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "titulo": "Celular",
+      "categoria": "Eletrônico",
+      "modelo": "X10",
+      "quantidade": 10,
+      "img": "https://a-static.mlcdn.com.br/618x463/iphone-12-apple-128gb-azul-tela-61-cam-dupla-12mp-ios/magazineluiza/155598400/6b9b8ece04de165ab19587f5bd491df4.jpg"
+    },
+    {
+      "id": "2",
+      "titulo": "Televisão",
+      "categoria": "Eletrônico",
+      "modelo": "X10",
+      "quantidade": 10,
+      "img": "https://i.mlcdn.com.br/portaldalu/fotosconteudo/31726_01.jpg"
+    }
+  ]
+}
